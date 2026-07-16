@@ -24,11 +24,11 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarneupane&show_icons=true&theme=tokyonight&hide_border=true" alt="Oscar's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarneupane&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oscarneupane&theme=tokyonight" alt="Oscar's GitHub profile summary" width="100%" />
 </p>
 
 <p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oscarneupane&theme=tokyonight" alt="Top languages by repo" height="165" />
   <img src="https://streak-stats.demolab.com?user=oscarneupane&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
